@@ -197,7 +197,6 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="https://forms.gle/ZBc1xbLm4Fzmo4XV7">Pre-workshop survey</a></p>
 
 <hr/>
-
 <h2 id="registration">Registration</h2>
 <p> Please register <a href="https://forms.gle/7DbTk13GGRuPq6vr9">here</a>.</p>
 <hr/>
